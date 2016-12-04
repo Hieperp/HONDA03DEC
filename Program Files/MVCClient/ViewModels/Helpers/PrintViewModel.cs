@@ -4,8 +4,8 @@
     {
         public int Id { get; set; }
 
-        public string ServerName { get { return "SERVERCTY"; } set; }
-        public string CatalogName { get { return "TESTTotalBikePortals"; } set; }
+        public string ServerName { get { return "SERVERCTY"; } }
+        public string CatalogName { get { return "TESTTotalBikePortals"; } }
 
         public string ReportPath { get; set; }
 
