@@ -738,6 +738,7 @@
     <Content Include="Content\kendo\2014.1.415\Uniform\sprite.png" />
     <Content Include="Content\kendo\2014.1.415\Uniform\sprite_2x.png" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\StyleSheet1.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

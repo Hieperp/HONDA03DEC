@@ -14,9 +14,10 @@ body {
     padding: 0px 0px;
     /*padding: 0px 4%;*/
     font-weight: lighter;
-    margin: auto;
-    width: 1280px;
-    float: left;
+
+
+    /*margin: auto;
+    width: 1280px;*/
 }
 
 
@@ -26,20 +27,16 @@ body {
     }
 }*/
 
-.container {
-    max-width: 1180px;
-    width: 1180px;
-}
 
 #main {
-    /*width: 100%;*/
-    /*min-width: 1150px;*/
+    width: 100%;
+    min-width: 1150px;
     /*margin: 0px 6%;*/
-    /*margin: 0px 80px;*/
+    margin: 0px 80px;
     /*border-left: solid 1px lightgray;
     border-top: solid 1px lightgray;*/
     overflow: hidden;
-    padding: 35px 0 15px 10px;
+    padding: 42px 0 15px 10px;
     float: left;
 }
 
@@ -547,8 +544,8 @@ label {
 }
 
 #main-menu-container {
-    /*width: 100%;
-    min-width: 1150px;*/
+    width: 100%;
+    min-width: 1150px;
     height: 55px;
     clear: both;
     background-color: forestgreen;
@@ -611,7 +608,7 @@ label {
             color: slategrey;
             background: linear-gradient(#dc7171, #852809);
         }
-
+        
 
 #grouplist > .k-item > .k-link:hover {
     background-color: #ca0e0b;
@@ -656,9 +653,9 @@ label {
 
 
 #detail-menu {
-    /*position: absolute;*/
+    position: absolute;
     left: 1px;
-    /*margin-top: 42px;*/
+    margin-top: 42px;
     /*top: 170px;*/
 }
 
